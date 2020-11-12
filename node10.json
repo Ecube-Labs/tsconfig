@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "display": "Ecube Labs Node 12",
+
+  "compilerOptions": {
+    "lib": ["es2018"],
+    "target": "es2018",
+
+    "module": "commonjs",
+    "noEmitOnError": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "resolveJsonModule": true,
+    "removeComments": true,
+    "noErrorTruncation": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}

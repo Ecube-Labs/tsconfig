@@ -1,0 +1,24 @@
+{
+  "name": "@ecubelabs/tsconfig",
+  "version": "0.0.1",
+  "description": "",
+  "main": "node12.json",
+  "scripts": {
+    "test": "exit 0;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ecube-Labs/tsconfig.git"
+  },
+  "keywords": [
+    "tsconfig",
+    "ecubelabs",
+    "typescript"
+  ],
+  "author": "Tim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ecube-Labs/tsconfig/issues"
+  },
+  "homepage": "https://github.com/Ecube-Labs/tsconfig#readme"
+}
