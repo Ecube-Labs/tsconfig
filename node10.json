@@ -1,6 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/tsconfig",
-  "display": "Ecube Labs Node 12",
+  "display": "Ecube Labs Node 10",
 
   "compilerOptions": {
     "lib": ["es2018"],
@@ -16,6 +16,8 @@
     "resolveJsonModule": true,
     "removeComments": true,
     "noErrorTruncation": true,
-    "forceConsistentCasingInFileNames": true
+    "forceConsistentCasingInFileNames": true,
+    "sourceMap": true,
+    "inlineSources": true
   }
 }

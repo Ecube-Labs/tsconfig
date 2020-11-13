@@ -16,6 +16,8 @@
     "resolveJsonModule": true,
     "removeComments": true,
     "noErrorTruncation": true,
-    "forceConsistentCasingInFileNames": true
+    "forceConsistentCasingInFileNames": true,
+    "sourceMap": true,
+    "inlineSources": true
   }
 }
