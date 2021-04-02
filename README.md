@@ -5,7 +5,7 @@ npm i @ecubelabs/tsconfig
 
 ## Usage
 
-### Node 14 <kbd><a href="./node12.json">tsconfig.json</a></kbd>
+### Node 14 <kbd><a href="./node14.json">tsconfig.json</a></kbd>
 Add to your `tsconfig.json`
 ```
 "extends": "@ecubelabs/tsconfig/node14.json"
