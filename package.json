@@ -2,7 +2,7 @@
   "name": "@ecubelabs/tsconfig",
   "version": "0.1.1",
   "description": "",
-  "main": "node12.json",
+  "main": "node14.json",
   "scripts": {
     "test": "exit 0;"
   },
