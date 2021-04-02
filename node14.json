@@ -7,6 +7,7 @@
     "target": "es2020",
 
     "module": "es2020",
+    "moduleResolution": "node",
     "noEmitOnError": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
