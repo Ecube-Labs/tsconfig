@@ -9,6 +9,7 @@ npm i @ecubelabs/tsconfig
 Add to your `tsconfig.json`
 ```
 "extends": "@ecubelabs/tsconfig/node16.json"
+```
 
 ### Node 14 <kbd><a href="./node14.json">tsconfig.json</a></kbd>
 Add to your `tsconfig.json`
