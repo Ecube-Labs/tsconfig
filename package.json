@@ -1,6 +1,6 @@
 {
   "name": "@ecubelabs/tsconfig",
-  "version": "0.6.0",
+  "version": "1.0.0",
   "description": "",
   "main": "node18.json",
   "scripts": {
