@@ -5,7 +5,14 @@ npm i @ecubelabs/tsconfig
 
 ## Usage
 
-### Node 18 <kbd><a href="./node16.json">tsconfig.json</a></kbd>
+### Node 20 <kbd><a href="./node20.json">tsconfig.json</a></kbd>
+Add to your `tsconfig.json`
+This tsconfig requires typescript>=5
+```
+"extends": "@ecubelabs/tsconfig/node20.json"
+```
+
+### Node 18 <kbd><a href="./node18.json">tsconfig.json</a></kbd>
 Add to your `tsconfig.json`
 ```
 "extends": "@ecubelabs/tsconfig/node18.json"
