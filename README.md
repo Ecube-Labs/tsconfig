@@ -7,6 +7,7 @@ npm i @ecubelabs/tsconfig
 
 ### Node 20 <kbd><a href="./node20.json">tsconfig.json</a></kbd>
 Add to your `tsconfig.json`
+This tsconfig requires typescript>=5
 ```
 "extends": "@ecubelabs/tsconfig/node20.json"
 ```
