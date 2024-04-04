@@ -6,8 +6,8 @@
     "lib": ["es2023"],
     "target": "ES2022",
     
-    "module": "commonjs",
-    "moduleResolution": "node",
+    "module": "Node16",
+    "moduleResolution": "Node16",
     "noEmitOnError": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
